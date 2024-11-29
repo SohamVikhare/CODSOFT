@@ -28,8 +28,6 @@ This Jupyter Notebook provides a comprehensive analysis and predictive modeling 
 5. **Model Training**
    - Implements several machine learning algorithms:
      - Logistic Regression
-     - Decision Trees
-     - Random Forest
    - Models are trained and validated using scikit-learn.
 
 6. **Model Evaluation**
