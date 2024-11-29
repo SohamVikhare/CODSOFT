@@ -24,7 +24,7 @@ This Jupyter Notebook provides a comprehensive analysis and predictive modeling 
    - Missing values are handled for critical columns like `Age` and `Embarked`.
    - Encoding categorical variables (e.g., `Sex`, `Embarked`) into numeric formats.
    - Features such as `Fare` are scaled for uniformity.
-
+ 
 5. **Model Training**
    - Implements several machine learning algorithms:
      - Logistic Regression
